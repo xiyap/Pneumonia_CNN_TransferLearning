@@ -39,4 +39,4 @@ if file is not None:
 
 st.markdown('<style>footer {position: fixed;bottom: 0;width: 100%;}</style>', unsafe_allow_html = True)
 st.markdown('###### *Disclaimer: This is not a proper medical diagnosis for Pneumonia.*')
-st.markdown('###### *The model has 98.97% accuracy in predicting actual pneumonia diagnosis with 8.10% of pneumonia misdiagnosis.*')
+st.markdown('###### *The model has 98.21% accuracy in predicting actual pneumonia diagnosis with 5.90% of pneumonia misdiagnosis.*')
